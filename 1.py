@@ -8,4 +8,6 @@ else:
         print ("Weird")
     elif N > 20:
         print ("Not Weird")
+        
+    print("hello")
 
